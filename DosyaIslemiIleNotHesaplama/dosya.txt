@@ -1,0 +1,5 @@
+Hatice Günday,70,90,20
+Mustafa Akyürek,90,80,60
+Ramazan Topaloğlu,60,30,50
+Elif Akşit,80,40,80
+Mehmet Düşenkalkar,70,20,40
